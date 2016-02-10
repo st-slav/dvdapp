@@ -1,0 +1,12 @@
+com\stslav\appdvd\dao\DiskDAOImpl.class
+com\stslav\appdvd\service\UserDetailsImpl.class
+com\stslav\appdvd\service\UserServiceImpl.class
+com\stslav\appdvd\dao\UserDAO.class
+com\stslav\appdvd\entity\Disk.class
+com\stslav\appdvd\service\DiskServiceImpl.class
+com\stslav\appdvd\dao\UserDAOImpl.class
+com\stslav\appdvd\controller\TestController.class
+com\stslav\appdvd\service\UserService.class
+com\stslav\appdvd\dao\DiskDAO.class
+com\stslav\appdvd\service\DiskService.class
+com\stslav\appdvd\entity\User.class

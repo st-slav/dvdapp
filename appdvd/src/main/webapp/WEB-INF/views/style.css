@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+#aTitle{color:red;}
+#avt
+{
+	text-align: center;
+	height: 133px;
+	width:270px;
+	margin:200px auto;
+	border:1px solid black;
+	padding: 21px;
+}
+input {
+    border-bottom-style: 10px;
+}
+.menu_str {
+    list-style:none;                
+}
+.menu_str div {
+    display: inline-block;
+    width:125px;
+    height:30px;
+    text-align: center;
+    vertical-align: middle;
+}
+.space{
+    height: 30px;
+}
+.error{
+    color:red;
+    margin: 0 auto;
+}
+table {
+    margin: 0 auto;
+}
+.add {
+    margin-left: 35%;
+}
+.menu {
+    margin-left: 28%;
+}
